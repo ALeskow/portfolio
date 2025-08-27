@@ -1,0 +1,111 @@
+{
+  "header": {
+    "brand": "<img src='assets/images/logo-ea.png' alt='Logo' style='width:2.5rem;height:2.5rem;border-radius:50%;vertical-align:middle;margin-right:0.5rem;'>",
+    "menu": [
+      { "text": "Home", "href": "#home" },
+      { "text": "Projetos", "href": "#projetos" },
+      { "text": "Sobre", "href": "#sobre" },
+      { "text": "Contato", "href": "#contato" }
+    ]
+  },
+  "main": {
+    "subtitle": "Ana Leskow, Campinas-SP, Desenvolvedora de Front-end.",
+    "social": [
+      { "icon": "bi-github", "href": "https://github.com/ALeskow" },
+      { "icon": "bi-linkedin", "href": "https://www.linkedin.com/in/ana-leskow/" }
+    ],
+    "video": "https://www.youtube.com/embed/HXKz2-Sohfo"
+  },
+  "technologies": [
+    { "name": "HTML", "logo": "assets/images/technologies/html.svg" },
+    { "name": "CSS", "logo": "assets/images/technologies/css.svg" },
+    { "name": "JavaScript", "logo": "assets/images/technologies/js.svg" },
+    { "name": "Canva", "logo": "assets/images/technologies/canva.svg" }
+  ],
+  "projects": [
+    {
+      "title": "Pokedex",
+      "description": "Catalogo de Pokemons utilizando API.",
+      "cover": "assets/images/projects/pokedex.jpg",
+      "features": [
+        { "text": "Mecanismo de Busca por Nome." },
+        { "text": "Página de Detalhes." },
+        { "text": "Responsividade." }
+      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "Canva"],
+      "preview": "https://aleskow.github.io/js-developer-pokedex/",
+      "repo": "https://github.com/ALeskow/js-developer-pokedex"
+    },
+    {
+      "title": "jo-Ken-Po",
+      "description": "Jogo de Pedra, Papel e Tesoura.",
+      "cover": "assets/images/projects/jokenpo.jpg",
+      "features": [
+        { "text": "Funcionalidade em JavaScript." },
+        { "text": "Interface Estilizada com Icons." },
+        { "text": "Fundo Animado." }
+      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "Canva"],
+      "preview": "https://aleskow.github.io/jokenpo/",
+      "repo": "https://github.com/ALeskow/jokenpo"
+    },
+    {
+      "title": "wikipedia",
+      "description": "Página Recriada em Design Moderno.",
+      "cover": "assets/images/projects/wiki.jpg",
+      "features": [
+        { "text": "Elaboração com Base nas Cores Originais." },
+        { "text": "Seção de Conteúdos Relacionados" },
+        { "text": "Menu de Navegação Fixo." }
+      ],
+      "technologies": ["HTML", "CSS"],
+      "preview": "https://aleskow.github.io/proj-DIO-wiki/",
+      "repo": "https://github.com/ALeskow/proj-DIO-wiki"
+    }
+  ],
+  "about": {
+    "photo": "assets/images/avatar.jpg",
+    "description": "Sou uma desenvolvedora front-end, apaixonada por transformar ideias em realidade. Dedico-me com entusiasmo ao aprendizado de novas tecnologias, criando projetos que combinam funcionalidade com design atraente. Além do desenvolvimento web, sou entusiasta de edição de fotos e vídeos, e também me aventuro ocasionalmente em projetos artísticos, complementando minha habilidade técnica com uma perspectiva estética.",
+    "languages": "Inglês: Fluente | Espanhol: Básico | Russo: Básico",
+    "linkedin": "https://www.linkedin.com/in/ana-leskow/",
+    "curriculo": "",
+    "education": {
+      "title": "Formação",
+      "course": "Enfermagem",
+      "period": "Mar 2019 - Dez 2023",
+      "university": "Universidade Estadual Julio de Mesquita Filho - UNESP"
+    },
+    "experiences": [
+      { "text": "--" },
+      { "text": "--" },
+      { "text": "--" }
+    ],
+    "courses": [
+      {
+        "title": "Santander 2025 - Front-End",
+        "details": "Digital Innovation One. Junho-Agosto 2025. 102hrs.",
+        "description": "Domine a trinca fundamental do bom desenvolvedor Front-End com HTML, CSS e JAVASCRIPT, com uma base estruturada de conteúdos e 10 projetos práticos, incluindo páginas web responsivas e dinâmicas com temática de Pokémon, Yu-Gi-Oh e mais!",
+        "topics": [
+          { "text": "Projetos práticos" },
+          { "text": "Design Responsivo e Mobile-First" },
+          { "text": "Programação Colaborativa (Git, Figma)" },
+          { "text": "Acessibilidade" }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contate-me",
+    "description": "Estou disponível para serviços e novas conexões. Contate-me via e-mail e conecte-se comigo através do LinkedIn.",
+    "email": "anarleskow07901@gmail.com",
+    "social": [
+      { "icon": "bi-github", "href": "https://github.com/ALeskow", "text": "GitHub" },
+      { "icon": "bi-linkedin", "href": "https://www.linkedin.com/in/ana-leskow/", "text": "LinkedIn" }
+    ]
+  },
+  "footer": {
+    "text": "© 2025. Portfólio desenvolvido o Lab 'Construindo seu Portfolio Front-end do Zero' da Digital Innovation One por Ana Leskow.",
+    "dio": "https://www.dio.me/",
+    "github": "https://github.com/ALeskow"
+  }
+}
