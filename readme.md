@@ -2,7 +2,7 @@
     <span>Portfólio Front-end do Zero</span>
 </h1>
 
-Projeto desenvolvido com base em materiais de apoio para conclusão do lab **Construindo seu Portfólio Front-end do Zero** da [Digital Innovation One](https://www.dio.me/).
+Projeto desenvolvido com base em materiais de apoio para conclusão do lab **Construindo seu Portfólio Front-end do Zero** da [Digital Innovation One](https://www.dio.me/). Este contém informações sobre mim, tais como formação e cursos, formas de contato e alguns dos meus projetos desenvolvidos até o momento.
 
 ## Tecnologias Utilizadas
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)]()
